@@ -15,7 +15,7 @@ const Hero = () => {
         />
         <HeroImage src="/images/hero-img.jpg" alt="Hero animal image" />
       </picture>
-      <Swoop src="/swoop.svg" alt="Border of hero animal" />
+      <Swoop src="/swoop.svg" alt="" />
     </Wrapper>
   );
 };
